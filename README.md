@@ -1,4 +1,5 @@
-### Hi there 👋 I´m André and I´m a .NET Full Stack Developer from Portugal 🇵🇹
+### Hi there 👋,
+### I´m André and I´m a .NET Full Stack Developer from Portugal 🇵🇹
 
 <!--
 **andreamadoo/andreamadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
