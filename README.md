@@ -1,21 +1,21 @@
 ### Hi there 👋,
 ### I´m André and I´m a .NET Full Stack Developer from Portugal 🇵🇹
 
+<p align="left">
+<h3 align="left">📫 Connect with me:</h3>
+<a href="https://www.linkedin.com/in/andr%C3%A9-amado-374aba18b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kostas chaniotakis" height="30" width="40" /></a>
+</p>
 
-📫 How to reach me:
-[![name]([link to image on GH](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/andr%C3%A9-amado-374aba18b)
+<h3 align="left">Languages and Tools:</h3>
 
-<!--
-**andreamadoo/andreamadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-  🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
