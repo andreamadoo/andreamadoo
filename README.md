@@ -3,7 +3,7 @@
 
 
 📫 How to reach me:
-[I'm an inline-style link](https://www.linkedin.com/in/andr%C3%A9-amado-374aba18b)
+[![name]([link to image on GH](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/andr%C3%A9-amado-374aba18b)
 
 <!--
 **andreamadoo/andreamadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
