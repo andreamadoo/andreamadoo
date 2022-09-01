@@ -1,5 +1,5 @@
 ### Hi there 👋,
-### I´m André and I´m a .NET Full Stack Developer from Portugal 🇵🇹
+### I´m André and I´m a .NET Full Stack Developer from Portugal 🇵🇹 currently working in Sweden!
 
 <p align="left">
 <h3 align="left">📫 Connect with me:</h3>
