@@ -3,7 +3,7 @@
 
 <p align="left">
 <h3 align="left">📫 Connect with me:</h3>
-<p> My Portfolio : https://andreamadoo.github.io/portfolio/ </p>
+<p> My Portfolio : https://andreamadoo.github.io/ </p>
 <a href="https://www.linkedin.com/in/andre-amado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
 </p>
 
